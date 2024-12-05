@@ -1,0 +1,7 @@
+winter 2008 rows 45556-45767
+summer 2008 row 45434-45525
+
+total snow coloumn J
+average max temp coloumn M
+average low temp coloumn K
+total rain coloumn L
